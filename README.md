@@ -16,4 +16,12 @@
 ## To install dependencies
 - `pip install Flask` or `pip3 install Flask`
 
+## To display information about a package
+- `pip show Flask`
 
+## To display all of the packages installed in the virtual environment
+- `pip list`
+
+## Some useful commands
+- `pip freeze > requirements.txt`
+- `pip install -r requirements.txt`
